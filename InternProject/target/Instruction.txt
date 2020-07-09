@@ -1,0 +1,11 @@
+this is the Submission  from , 
+Using of JAVA and Spring MVC
+
+First run the program login Submission , the url is:
+http://localhost:8080/spring-love-calculator/
+
+Second registration submission , url is:
+http://localhost:8080/spring-love-calculator/register
+
+I hope enjoy the code 
+//Submitted by -Samrat Sohel
